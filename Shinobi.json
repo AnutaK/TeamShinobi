@@ -1,0 +1,58 @@
+{
+  "allowHttpBackend": false,
+  "backendCommand": "node backend -c \"o28sd1trsnkkid08u4k6z40xu3reze\" -s \"CnvHm02BjAcob5J0MBLdpXlgLWATopoRBJyUNciK968=\"",
+  "backendFolderName": "extension-getting-started\\services",
+  "certificateExceptions": [],
+  "extensionViews": [],
+  "frontendCommand": "",
+  "frontendFolderName": "extension-getting-started\\public",
+  "manifest": {
+    "anchor": "video_overlay",
+    "assetUrls": [],
+    "authorName": "anna_kv",
+    "bitsEnabled": false,
+    "canInstall": true,
+    "configUrl": "https://localhost:8080/config.html",
+    "configurationLocation": "none",
+    "description": "",
+    "eulaTosUrl": "",
+    "hasChatSupport": false,
+    "iconUrl": "",
+    "iconUrls": {},
+    "id": "o28sd1trsnkkid08u4k6z40xu3reze",
+    "installationCount": -42,
+    "liveConfigUrl": "",
+    "name": "Shinobi",
+    "panelHeight": 0,
+    "privacyPolicyUrl": "",
+    "requestIdentityLink": false,
+    "requiredBroadcasterAbilities": [],
+    "screenshotUrls": [],
+    "sku": "",
+    "state": "Testing",
+    "subscriptionsSupportLevel": "none",
+    "summary": "",
+    "supportEmail": "",
+    "vendorCode": "",
+    "version": "0.0.1",
+    "viewerSummary": "",
+    "viewerUrl": "",
+    "viewerUrls": {
+      "videoOverlay": "https://localhost:8080/video_overlay.html"
+    },
+    "views": {
+      "config": {
+        "canLinkExternalContent": false,
+        "viewerUrl": "https://localhost:8080/config.html"
+      },
+      "videoOverlay": {
+        "canLinkExternalContent": false,
+        "viewerUrl": "https://localhost:8080/video_overlay.html"
+      }
+    },
+    "whitelistedConfigUrls": [],
+    "whitelistedPanelUrls": []
+  },
+  "name": "Shinobi",
+  "version": 1
+}
