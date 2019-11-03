@@ -41,13 +41,13 @@
       "videoOverlay": "https://localhost:8080/video_overlay.html"
     },
     "views": {
-      "config": {
-        "canLinkExternalContent": false,
-        "viewerUrl": "https://localhost:8080/config.html"
-      },
       "videoOverlay": {
-        "canLinkExternalContent": false,
-        "viewerUrl": "https://localhost:8080/video_overlay.html"
+        "viewerUrl": "https://localhost:8080/video_overlay.html",
+        "canLinkExternalContent": false
+      },
+      "config": {
+        "viewerUrl": "https://localhost:8080/config.html",
+        "canLinkExternalContent": false
       }
     },
     "whitelistedConfigUrls": [],
